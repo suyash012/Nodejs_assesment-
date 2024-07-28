@@ -24,4 +24,4 @@ This application does the following:
 
 ## Note on Deployment
 
-This project is designed to run locally due to the limitations of the Firebase Spark plan, which does not support Cloud Functions. If you wish to deploy this application in the future, you'll need to upgrade to the Blaze (pay-as-you-go) plan and make some adjustments to the code to use Firebase Cloud Functions.
+This project is designed to run locally due to the limitations of the Firebase Spark plan, which does not support Cloud Functions. If you'd like to deploy this application, you must upgrade to the Blaze (pay-as-you-go) plan and adjust the code to use Firebase Cloud Functions.
